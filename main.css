@@ -1,0 +1,12 @@
+.s{
+    width: 200px;
+    height: 200px;
+    border: 1px solid aqua;
+    background-color: red;
+    border-radius: 25px;
+}
+.s:hover{
+    transform: scale(1,2);
+    transition: all 1s ease-out;
+    background-color: crimson;
+}
